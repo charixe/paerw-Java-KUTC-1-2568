@@ -4,7 +4,7 @@ public class MathBasic {
    public static void main(String[] args) {
 //       int num_1 = 10;
 //       int num_2 = 3;
-//      int result ;
+//       int result ;
 //
 //     result = num_1 + num_2 ;
 //
@@ -38,7 +38,10 @@ public class MathBasic {
 
        MB = Byte / 1048576;
        System.out.println(MB);
-       //
+
+
+
+
 
 
    }
